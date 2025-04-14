@@ -1,0 +1,294 @@
+{
+    "name": "SIDDHARTH JAIN (Sid)",
+    "email": "sidit28@hotmail.com",
+    "professional_summary": [
+        "Over 17 years of IT experience, which includes 15+ years of experience as a Weblogic Administrator.",
+        "Extensively worked on Oracle/BEA WebLogic Application Server 8.1, 10.x, 11, 12 & 14 as an administrator in installing, configuring and administering Server.",
+        "Experience with configuring VMs in Google Cloud(GCP).",
+        "Experience with container platforms and management like Docker.",
+        "Experience in configuring ETAP.",
+        "Experience in installing and configuring 'Planning & Scheduling' software by Prometheus Group.",
+        "Experience in setting up Weblogic on Development, Staging, Test and Production environments.",
+        "Successfully configured JBoss Application server with Apache 2.x as Web Server.",
+        "Experience in Monitoring and Auditing log files.Troubleshooting problems based on mails from monitoring tools such as Red Alert, Sitescope, Elasticsearch/Logstash/Kibana.",
+        "Involved in projects wherein Offshore as well as Onsite administration is required.",
+        "Configuring FTP access in IIS.Installing and configuring Apache Tomcat, Websphere Admin app server. Exposures to F5 load balancer.",
+        "Basic knowledge of SiteScope and AppDynamics monitoring tool.",
+        "Experience in Mongodb.",
+        "Basic knowledge of python.",
+        "Knowledge of creating images using Packer.",
+        "Extensive experience in Performance tuning and load Monitoring of WebLogic server.",
+        "Basic understanding of Citrix Load Balancer.",
+        "Able to troubleshoot, CR filing, patch request, and worked with BEA support and development teams for issue resolution.",
+        "Hands on experience in configuring WebLogic application servers having Cluster, and deployment of applications in Production Environment. Creating managed servers, Domains and Admin Server and can start    and stop servers using Node Managers.",
+        "Basic understanding and knowledge of AWS.",
+        "Experience in installing and configuring web servers (Apache, IIS, and iPlanet) as proxies to WebLogic Server.",
+        "Experience in configuring JDBC connection pools, JMS and Virtual Host.",
+        "Extensively worked on the Administration console to configure server properties. Good understanding of the other technical aspects of clustering, security, database technologies/concepts, command line in configuring server properties, configuring connection pools with Oracle database.Sound enough to analyze and troubleshoot application system problems and determine root causes.",
+        "Administration and configuration of WebLogic Server in tandem iPlanet, Apache, and LDAP.",
+        "Basic understanding and knowledge of Jenkins CI/CD tool.",
+        "Acting as one point contact for customers for any issues.",
+        "Worked as Programmer Analyst for client BEA Systems from HCL Technologies."
+    ],
+    "education": [
+        "Masters of Science (Information Technology), Kuvempu University, Karnataka, India.",
+        "Bachelor of Business Administration, DAVV University, Indore, Madhya Pradesh, India.",
+        "“GNIIT” computer course from NIIT."
+    ],
+    "certifications": [
+        "BEA WebLogic Server Administration 8.1"
+    ],
+    "technical_skills": [
+        {
+            "type": "Scripting Languages",
+            "value": "Shell"
+        },
+        {
+            "type": "Programming Languages",
+            "value": "Python"
+        },
+        {
+            "type": "DB",
+            "value": "Oracle, MongoDB"
+        },
+        {
+            "type": "CI/CD Tools",
+            "value": "IBM UrbanCode Build(uBuild), Jenkins"
+        },
+        {
+            "type": "Infra-as-code",
+            "value": "Terraform, Packer"
+        },
+        {
+            "type": "Automation Tools",
+            "value": "Rundeck, Ansible"
+        },
+        {
+            "type": "Application Servers",
+            "value": "Oracle/BEA WebLogic, Tomcat, JBoss"
+        },
+        {
+            "type": "Web Servers",
+            "value": "Apache, iPlanet, IIS"
+        },
+        {
+            "type": "OS",
+            "value": "Linux, Windows"
+        },
+        {
+            "type": "Monitoring Tools",
+            "value": "Elasticsearch, Logstash, Kibana, Dynatrace, Splunk"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Fiserv Inc.",
+            "title": "DevOps Systems Engineer",
+            "duration": "May 2023 – May 2024",
+            "project_brief": "Worked as Devops Engineer on Prod and UAT envs to make sure App Infra is 24/7 running smoothly.",
+            "environment": [
+                {
+                    "value": "Weblogic 12, Apache, Python, Rundeck, Linux, GIT, Ansible"
+                }
+            ],
+            "responsibilities": [
+                "Using Splunk to monitor various dashboards related to incoming/outgoing transactions.",
+                "Using Dynatrace to monitor Infrastructure and the Services are running fine.",
+                "Use ServiceNow to create an incident, in case of any issue.",
+                "Configured Rundeck jobs to automate things like start/stop servers.",
+                "Coordinate with Linux team to apply OS patches without any downtime.",
+                "Wrote ansible script to check the status of the services running on the servers.",
+                "Wrote Weblogic(14.1.1) WLST(python based) scripts to check the server status, app deployment status, creating whole domain etc.",
+                "Configured and checked-in infra files in GIT Lab and a shell script to alert the team if there is a mismatch.",
+                "Keeping an eye on the batch jobs to make sure files are getting transferred using sftp, to the client on time."
+            ]
+        },
+        {
+            "company": "Google Inc.",
+            "title": "Application Engineer",
+            "duration": "Dec 2014 – Dec 2022",
+            "project_brief": "Worked as Sys admin in Supply Chain Systems department to make sure Applications and VMs are always running for supporting Google Data Centers.",
+            "environment": [
+                {
+                    "value": "Terraform, Weblogic 12, Apache, IBM Maximo, Linux, Windows, Docker, Ansible, Puppet"
+                }
+            ],
+            "responsibilities": [
+                "Leading and guiding admin team in setting up env in GCP for multiple projects.",
+                "Training dev team members for Google Cloud usage.",
+                "Co-ordinating with Business to provide them app usage graph.",
+                "Leading the effort to move the application from current on-premises Data Center to cloud.",
+                "Granted access to specific features in google cloud using IAM policy.",
+                "Configured apache to allow specific set of users to the application.",
+                "Created VMs in Google Cloud using terraform and then installed applications on those VMs.",
+                "Configured IBM Maximo to run on Oracle Weblogic App server.",
+                "Managing the VMs through Google cloud pantheon by configuring stackdriver and fluentd to integrate with Pantheon alerts and log explorer, to be able to create application/vm alerts.",
+                "Managing capacity and performance issues and planning accordingly.",
+                "Used ansible to do some tasks like, copying file to multiple vms, changing file permissions etc.",
+                "Experience in configuring splunk to intake application logs.",
+                "Experience in applying weblogic patch.",
+                "Experience in renewing certificate using internal google tool.",
+                "Used puppet to install web server like Apache, copy files etc.",
+                "Experience in version/source control.",
+                "Experience in installing/configuring windows features like IIS using powershell.",
+                "Experience in creating schema, users and granting them specific access in oracle.",
+                "Configured folder sharing between Windows and macOS for smooth file transfer.",
+                "Experience in using Google Analytics for monitoring maximo application.",
+                "Experience in installing and configuring ETAP with the help of Vendor.",
+                "Worked with the vendor Prometheus Group to install and configure 'Planning & Scheduling' software in Docker running on GCP.",
+                "Writing shell scripts to monitor the server logs and generate email to notify the team.",
+                "Working with developers to resolve any bugs related to the application.",
+                "Basic understanding about Active Directory.",
+                "Refreshing lower non-prod envs with Prod data for development work.",
+                "Basic understanding and experience in vmware and multipass(which uses hyperkit to launch instance on macOS).",
+                "Experience configuring Weblogic Cluster with multiple instances running on different VMs.",
+                "Worked on configuring tomcat as a cluster behind apache web server.",
+                "Configured custom log rotation in tomcat.",
+                "Experience in planning, testing and executing Disaster Recovery."
+            ]
+        },
+        {
+            "company": "WellsFargo",
+            "title": "Sr. Web Engineer",
+            "duration": "Jul 2013 - Nov 2014",
+            "project_brief": "Supported applications running in the environment having WebLogic Server 10.x, Tuxedo app server,PeopleSoft tool, Autosys, F5 and N1 deployment tool, for Online Financial Exchange as a Third Level Web Engineer in Production Support Group.",
+            "environment": [
+                {
+                    "value": "Weblogic 10.x as web server, Tuxedo as app server, Autosys, F5, N1 deployment tool,Linux,Windows."
+                }
+            ],
+            "responsibilities": [
+                "Writing shell scripts to automate cache cleanup, log cleanup etc.Troubleshoot problems in production environment for different applications and forward it to the next level of support, if required.",
+                "Keep an eye on F5 load balancing to make sure all servers are up and running and the load is distributed evenly. Debug weblogic, tuxedo and peoplesoft related errors in staging and production and take thread dump using weblogic console.",
+                "Deploying code in staging and production through N1.",
+                "Creating tickets using BMC Pac2000.",
+                "Keeping an eye on idle thread count in weblogic console.",
+                "Monitoring Linborg (inbuilt monitoring tool by Wells Fargo) continuously to check if there are any issues or number of sessions on each instance.",
+                "Use F5 load balancer to put instances in and out of rotation as required.",
+                "AlarmPoint to check if there is any new issue in production.",
+                "Working on CRs (Change Request) for any functionality change, architecture change or to resolve any fallout from new releases.",
+                "HP Business Availability Center (BAC) to monitor all the applications and make sure there are no failures.",
+                "Use BMC Remedy Knowledge Management to update/create documents for troubleshooting any issue."
+            ]
+        },
+        {
+            "company": "Arcot Systems(CA Technologies)",
+            "title": "Middleware Engineer",
+            "duration": "Jan 2012 - May 2012",
+            "project_brief": "Supported applications running in staging and production mode. Troubleshooting errors related to web servers. Deploying updated versions of the application and resolving tickets related to the deployment.",
+            "environment": [
+                {
+                    "value": "Windows, Linux, Apache"
+                }
+            ],
+            "responsibilities": [
+                "Deploying updated versions of the application on windows and linux systems.",
+                "Resolving tickets related to the errors in staging and productions environment.",
+                "Writing batch scripts for windows and shell scripts for linux.",
+                "Monitoring the performance of production servers.",
+                "Coordinating with database team for any performance related issue."
+            ]
+        },
+        {
+            "company": "Cisco Systems",
+            "title": "Middleware Engineer",
+            "duration": "Aug 2011 - Dec 2011",
+            "project_brief": "This project was a Proof of Concept(POC) for GemFire Product. It included installation and configuration of GemFire datagrid. Supporting other teams to load data in the datagrid and troubleshooting problems related to the grid.",
+            "environment": [
+                {
+                    "value": "GemFire 661, Linux"
+                }
+            ],
+            "responsibilities": [
+                "Installing GemFire on cluster of VMs.",
+                "Configuring data(cache) nodes, locators, and agent nodes.",
+                "Writing shell scripts for starting, stopping, checking status and scripts for sending alert mail accordingly.",
+                "Dataload in the datagrid.",
+                "Optimizing the datagrid for optimal performance. Testing the grid with gemfire params in properties file.",
+                "Troubleshooting the issues related to dataload in the grid using cacheserver log files.",
+                "Co-ordinating with different teams for resolving dataload issue.",
+                "Supporting other teams to run load test on the grid.",
+                "Tunning jvm params in the grid.",
+                "Installing GemFire's GFMon tool and monitoring data(cache) nodes using that tool.",
+                "Using Jconsole to monitor the datagrid.",
+                "Analyzing .gz files using GemFire's Visual Statistics Display(VSD) tool for checking region details and information."
+            ]
+        },
+        {
+            "company": "Hewlett Packard(HP)",
+            "title": "Systems Engineer",
+            "duration": "Mar 2011 - Aug 2011",
+            "project_brief": "Supported applications running in Development and Staging environment. Troubleshooting problems related to deployment and publishing content, and if required scheduling a conference call to work with different teams.",
+            "environment": [
+                {
+                    "value": "Weblogic 10.x, Linux, Windows, Tridion"
+                }
+            ],
+            "responsibilities": [
+                "Conduct meetings to coordinate with different teams and keep different environments in sync.",
+                "Deploying applications in Staging environment.",
+                "Using HP Apate tool for getting server/box information in detail.",
+                "Troubleshooting issues related to weblogic server startup, deployment, content publishing in staging and development environment.",
+                "Monitoring server performance like CPU usage, memory consumption etc using HP Performance Manager tool.",
+                "Testing staging and pro URLs using HP's ASAK in-built tool.",
+                "Creating Change Requests for deployment in Production.",
+                "Creating Emergency Change Requests for break/fix in Production environment.",
+                "Conduct hand-off meeting to-from EMEA and India team.",
+                "Troubleshoot problems related to content publishing and restarting Tridion services on Windows."
+            ]
+        },
+        {
+            "company": "WellsFargo",
+            "title": "Sr. Web Engineer",
+            "duration": "Nov 2009 - Feb 2011",
+            "project_brief": "Supported applications running on WebLogic Server, related to bill payments as a Third Level Engineer in Production Support Group. Monitoring batch files that run daily to process and schedule payments. Troubleshooting problems in production environment for different applications and forwarding it to next level of support, if required. Keeping an eye on F5 load balancing to make sure all servers are up and running and the load is distributed properly.",
+            "environment": [
+                {
+                    "value": "Weblogic 10.x, Autosys, F5, N1 deployment tool in solaris environment."
+                }
+            ],
+            "responsibilities": [
+                "Production support for applications on Oracle(BEA) Weblogic Application Server 10.x in Solaris.",
+                "Debugging weblogic related errors in staging and production.",
+                "Creating users through weblogic console.",
+                "Taking thread dump using weblogic console, if required.",
+                "Deploying code in staging and production through N1.",
+                "Working on batch jobs that run daily to process payments, alerts etc.",
+                "Creating tickets using BMC Remedy and assigning to next level of support, if required.",
+                "Keeping an eye on idle thread count in weblogic console.",
+                "Monitoring Linborg (inbuilt monitoring tool by Wells Fargo) continuously to check if there are any issues or number of sessions on each instance.",
+                "Using F5 load balancer to put instances in and out of rotation as required.",
+                "Using AlarmPoint to check if there is any new issue in production.",
+                "Working on CRs (Change Request) to resolve any fallout from new releases.",
+                "Using HP Business Availability Center (BAC) to monitor all the applications and make sure there are no failures."
+            ]
+        },
+        {
+            "company": "ServiceMaster",
+            "title": "Application Admin",
+            "duration": "Jun 2008 - Jun 2009",
+            "project_brief": "Administered ServiceMaster.com site having various brands like Trugreen, Terminix, and AHS etc. Working as Application Admin and setting up Development, Staging, Test and Production environment. Deployed EJB applications on Development env and thereafter prod push for same. Provided 24X7 on call support for incident resolution in production for both internet and intranet applications. Creating CR’s for emergency code push and break/fix.",
+            "environment": [
+                {
+                    "value": "Oracle WebLogic 8.1, Websphere 6.1, Apache 2.0/2.2.x,IIS 6, Solaris, JBoss."
+                }
+            ],
+            "responsibilities": [
+                "Production, Development, Testing support for applications on BEA WebLogic Application Server 8.1 in Solaris environment.",
+                "Troubleshooting problems related to connection between Websphere, Apache and SQL.",
+                "Writing scripts for weblogic servers on Solaris box to auto start in sequence.",
+                "Configured DeltaCopy maintained by Synametrics Technologies, on Windows for secured incremental Backup and Deploy files from Subversion to production box.",
+                "Installing and configuring FTP in IIS 6.0 on Windows 2003.",
+                "Working on weblogic clusters with several managed servers.",
+                "Configured JDBC connections pools with Oracle database server 8.x.",
+                "Installed/Configured Self Signed and Verisign signed SSL certificates on WebLogic and Apache 2.2.x.",
+                "Renewing SSL certificates on IIS, weblogic and disabling weak encryption ciphers in IIS and JBoss.",
+                "Configured SSL on Apache (Windows) to forward request to another Apache (AS400) making a web service call.",
+                "Mirror setups of Production environments.",
+                "Migration of the application to different service pack or higher WLS version.",
+                "Applying the best practices so that server runs and functions in a better way with a good performance.",
+                "Capacity planning and performance tuning in the production environment."
+            ]
+        }
+    ]
+}
