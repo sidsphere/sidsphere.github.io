@@ -289,6 +289,100 @@
                 "Applying the best practices so that server runs and functions in a better way with a good performance.",
                 "Capacity planning and performance tuning in the production environment."
             ]
+        },
+        {
+            "company": "Yash Technologies",
+            "title": "Weblogic Admin",
+            "duration": "Jan 2007 - May 2008",
+            "project_brief": "Worked as Sr.Software Engineer and helped my team to set up a development environment for initial work and later turning the same into test, staging and production environment. Deployed Java and J2EE applications and provided 24X7 on call support for incident resolution in production for both internet and intranet applications.",
+            "environment": [
+                {
+                    "value": "Linux, Windows 2000 Server, BEA WebLogic 8.1, Sun iPlanet 6.0, Apache 2.0."
+                }
+            ],
+            "responsibilities": [
+                "Providing Production support to applications on BEA WebLogic Application Server 8.1 and 10.x in Linux environment.",
+                "Installed and configured BEA WebLogic Application Server 8.1 and JRockit on production servers.",
+                "Create WebLogic domains and configure clusters.",
+                "Configured JDBC connections pools with Oracle database server 8.x and JMS QUEUE, Topics and data sources.",
+                "Configure Security realms and created users, groups, global roles in WebLogic 8.1.",
+                "Configured external LDAP with WebLogic 8.1.x and created user in the same.",
+                "Performed various application changes and provided 24X7 production support for different applications.",
+                "Maintaining and configuration changes of iPlanet 6.0 and Apache 2.0 web servers.",
+                "Configured SSL on WebLogic.",
+                "Upgrading the WLS 8.1 SP4 to WLS 9.2.",
+                "Migration of the application to WLS 9.2.",
+                "Applying the best practices so that server runs and functions in a better way with a good performance.",
+                "Taking care of performance tuning in the production environment."
+            ]
+        },
+        {
+            "company": "ICICI Prudential",
+            "title": "Weblogic Admin",
+            "duration": "Nov 2006 - Dec 2006",
+            "project_brief": "Worked as WebLogic Admin and setup of WebLogic for Production & Development servers. Deployed web applications and provided 24X7 on call support for resolution in production and development servers.",
+            "environment": [
+                {
+                    "value": "Linux, Solaris, BEA WebLogic 8.1"
+                }
+            ],
+            "responsibilities": [
+                "Suppose to do installation, clustering and full setup of WebLogic for Production & Development servers, along with linking it to Apache web server.",
+                "Apart from this, query handling, error/exception handling in prod/dev servers related to WebLogic.",
+                "Configuration of Apache-WebLogic (Web-server and Application Server) plugins.",
+                "Configuration of JDBC, JNDI, Virtual hosts, domains in WebLogic Server.",
+                "Deployment of Websites in WebLogic Server.",
+                "Creating custom scripts for startup and stopping the server.",
+                "Administration of WebLogic server.",
+                "Migration from Lower version to higher version as and when required.",
+                "Administrating WebLogic Cluster (two node setup).",
+                "Performance Tuning of WebLogic Cluster.",
+                "Load Balancing and service pack upgrade.",
+                "Upgrade from lower version to higher version."
+            ]
+        },
+        {
+            "company": "HCL Technologies",
+            "title": "Weblogic Admin",
+            "duration": "Aug 2006 - Oct 2006",
+            "project_brief": "Installed and maintained WebLogic application software in Development, Test and Production environments.",
+            "environment": [
+                {
+                    "value": "Windows 2000, Linux, BEA WebLogic 8.1"
+                }
+            ],
+            "responsibilities": [
+                "Installation, clustering and full setup of WebLogic for Production & Development servers, along with linking it to Apache web server.",
+                "Error/exception handling in prod/dev servers related to weblogic.",
+                "Configuration of Apache-WebLogic (Web-server and Application Server) plugins.",
+                "Configuration of JDBC, JNDI, Virtual hosts, domains in WebLogic Server.",
+                "Creating custom scripts for startup and stopping the server.",
+                "Administration and Performance Tuning of WebLogic server Cluster",
+                "Migration from Lower version to higher version as and when required.",
+                "Load Balancing and service pack upgrade.",
+                "Upgrade from lower version to higher version."
+            ]
+        },
+        {
+            "company": "BEA Systems",
+            "title": "Programmer Analyst",
+            "duration": "Mar 2005 - Jul 2006",
+            "project_brief": "Worked as Developer Relations Engineer for BEA for HCL Technologies Ltd.",
+            "environment": [
+                {
+                    "value": "WebLogic application server 6.x/7.0/8.x/9.x"
+                }
+            ],
+            "responsibilities": [
+                "Handling issues like Security, Performance, Server Failures, Server Crashes and Clusters of the BEA WebLogic Server.",
+                "Manage cases and customer issues independently.",
+                "Provide mentoring on areas of proficiency or practices to peers or less experienced developer relations engineers.",
+                "Instrument BEA products to ease the troubleshooting activity.",
+                "Create Change Requests for specific types of problems.",
+                "Perform solutions reviews.",
+                "Collect technical (logs, configuration files,) and business/political (impact, project milestones, partnership) information helping shape an investigation and escalation plan.",
+                "Security, Clustering, Plug-in, Performance, Server Failures, Server Crashes."
+            ]
         }
     ]
 }
