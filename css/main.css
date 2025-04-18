@@ -204,6 +204,11 @@ section {
   margin: 0 1rem;
 }
 
+.company-heading {
+border-left: 4px solid var(--aside-accent-color);
+padding-left: 0.5rem;
+}
+
 aside .section-heading {
   align-items: flex-start;
   text-align: left;
