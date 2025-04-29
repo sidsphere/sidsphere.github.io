@@ -33,7 +33,7 @@
     "education": [
         "Masters of Science (Information Technology), Kuvempu University, Karnataka, India.",
         "Bachelor of Business Administration, DAVV University, Indore, Madhya Pradesh, India.",
-        "“GNIIT” computer course from NIIT."
+        "GNIIT” computer course from NIIT."
     ],
     "certifications": [
         "BEA WebLogic Server Administration 8.1"
@@ -79,6 +79,12 @@
             "type": "Monitoring Tools",
             "value": "Elasticsearch, Logstash, Kibana, Dynatrace, Splunk"
         }
+    ],
+    "projects": [
+        "A website like marketplace using python-flask and mongodb as backend, for buying and selling things, but specifically for LAN or within an organisation.",
+        "A food blog, written using python-flask and mongodb as backend.",
+        "A small project of webscraping using Beautiful Soup and Selenium with python to sms me inspirational thought everyday.",
+        "A fun project related to the recent Olympics, where the python program will use webscraping/selenium to check the current Gold medals won by US team and send me text as soon as it increases."
     ],
     "experience": [
         {

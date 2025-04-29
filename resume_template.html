@@ -141,6 +141,20 @@
             </section>
           {% endif %}
 
+          {% if projects %}
+            <section>
+              <h2 class="section-heading">Projects</h2>
+              <ul class="unstyled-list">
+                {% for pro in projects %}
+                <ul>
+                      <li>{{ pro }}</li>
+                    </ul>
+
+                {% endfor %}
+              </ul>
+            </section>
+          {% endif %}
+
           {% if education %}
             <section>
               <h2 class="section-heading">Education</h2>
